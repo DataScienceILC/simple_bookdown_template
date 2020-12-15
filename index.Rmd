@@ -1,0 +1,30 @@
+---
+title: ""
+author: ""
+site: bookdown::bookdown_site
+output: 
+    bookdown::gitbook:
+        number_sections: false
+        split_by: section
+        config:
+            toc:
+                collapse: section
+---
+
+```{r include = FALSE, eval = TRUE}
+# Define the web addresses for the course
+serverurl <- "https://github.com/DataScienceILCstudents/workflows"
+githuburl <- "https://github.com/DataScienceILCstudents/workflows"
+readerurl <- "https://reader.com"
+
+save(
+    list = c("serverurl", "githuburl", "readerurl"), 
+    file = "course_urls.RData")
+```
+
+
+
+# CURSUS TITEL
+
+## Leerdoelen cursus
+

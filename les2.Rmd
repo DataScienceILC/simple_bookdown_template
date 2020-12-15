@@ -1,0 +1,11 @@
+# Les 2
+
+```{r include=FALSE}
+load("course_urls.Rdata")
+```
+
+## Leerdoelen Les 2
+
+## Onderdeel 1
+
+## Onderdeel 2

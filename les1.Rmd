@@ -1,0 +1,15 @@
+# Les 1 - Introductie
+
+```{r include=FALSE}
+load("course_urls.Rdata")
+```
+
+## Leerdoelen Les 1
+
+## Onderdeel 1
+
+You can find the server at [this web address](`r serverurl`)
+
+## Onderdeel 2
+
+### Subonderdeel 2.1
