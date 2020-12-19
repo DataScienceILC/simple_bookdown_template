@@ -1,6 +1,6 @@
 ---
-title: ""
-author: ""
+title: "bookdown"
+author: "bookdown"
 site: bookdown::bookdown_site
 output: 
     bookdown::gitbook:
