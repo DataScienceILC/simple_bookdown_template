@@ -32,3 +32,4 @@ vignettes/*.pdf
 .Renviron
 bookdown_example
 rsconnect
+simple_bookdown

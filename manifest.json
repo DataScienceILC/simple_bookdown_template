@@ -530,22 +530,22 @@
       "checksum": "ab8690a150d1f5f4056991e6c5e63e38"
     },
     "_book/index.html": {
-      "checksum": "e2c7d4ea8ca6f0ab6124499170f2aedb"
+      "checksum": "85c230457d794635f220c8d87a2bb3f1"
     },
     "_book/leerdoelen-cursus.html": {
-      "checksum": "f1e2cfdcf8bf52cd2306b0bdc9cf8a20"
+      "checksum": "5c9d7bea444304997045ea45ae669171"
     },
     "_book/leerdoelen-les-1.html": {
-      "checksum": "5456ae0fb7a66a548326ebc01a6a2c9d"
+      "checksum": "7281dc6b3460b2f3f8b7ec1e520d6676"
     },
     "_book/leerdoelen-les-2.html": {
-      "checksum": "f4f5a77d609444e29ab55baa9e900994"
+      "checksum": "705ff2cae4c016b30f15ed49f326daee"
     },
     "_book/les-1-introductie.html": {
-      "checksum": "84a25d4896f9c0f766fa6980246988a3"
+      "checksum": "510fafdc38395d971d3cd05130ce5d5e"
     },
     "_book/les-2.html": {
-      "checksum": "05e20115dbe219966a910c7d83e0e219"
+      "checksum": "0d685be04722a030a038e76028284553"
     },
     "_book/libs/accessible-code-block-0.0.1/empty-anchor.js": {
       "checksum": "53c42ac72d71beb8e6dbffe86ab543d6"
@@ -555,6 +555,30 @@
     },
     "_book/libs/anchor-sections-1.0/anchor-sections.js": {
       "checksum": "35155fd1c913543974de3b2fd81e7fbd"
+    },
+    "_book/libs/bootstrap-3.3.5/css/bootstrap.min.css": {
+      "checksum": "aa3db69dbd9b05d8dfd439d464d02969"
+    },
+    "_book/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.eot": {
+      "checksum": "f4769f9bdb7466be65088239c12046d1"
+    },
+    "_book/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.svg": {
+      "checksum": "89889688147bd7575d6327160d64e760"
+    },
+    "_book/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.ttf": {
+      "checksum": "e18bbf611f2a2e43afc071aa2f4e1512"
+    },
+    "_book/libs/bootstrap-3.3.5/fonts/glyphicons-halflings-regular.woff": {
+      "checksum": "fa2772327f55d8198301fdb8bcfc8158"
+    },
+    "_book/libs/bootstrap-3.3.5/js/bootstrap.min.js": {
+      "checksum": "4becdc9104623e891fbb9d38bba01be4"
+    },
+    "_book/libs/bootstrap-3.3.5/shim/html5shiv.min.js": {
+      "checksum": "ae8fceae0e07d55b5cfaa9af6bc43a6d"
+    },
+    "_book/libs/bootstrap-3.3.5/shim/respond.min.js": {
+      "checksum": "506fe393e9f296d14b63733c0aff6205"
     },
     "_book/libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
       "checksum": "b06871f281fee6b241d60582ae9369b9"
@@ -607,20 +631,26 @@
     "_book/libs/gitbook-2.6.7/js/plugin-sharing.js": {
       "checksum": "799a983ef24c1cbe315d020a65aa1644"
     },
+    "_book/libs/jquery-1.11.3/jquery.min.js": {
+      "checksum": "895323ed2f7258af4fae2c738c8aea49"
+    },
     "_book/libs/jquery-2.2.3/jquery.min.js": {
       "checksum": "33cabfa15c1060aaa3d207c653afb1ee"
     },
+    "_book/libs/navigation-1.1/tabsets.js": {
+      "checksum": "3838523138b4d71acb5ea1c5c45ecc00"
+    },
     "_book/onderdeel-1-1.html": {
-      "checksum": "f9dcc133a700c7d6487deb7837df2881"
+      "checksum": "621eef1987ba784f022d05fb24a5189a"
     },
     "_book/onderdeel-1.html": {
-      "checksum": "7714f23548173f4ce16634adf5d57c4a"
+      "checksum": "a9bc4bff8a241b970dc3eccffc4e6407"
     },
     "_book/onderdeel-2-1.html": {
-      "checksum": "46f5a3889438354f2825a20bc58f84aa"
+      "checksum": "29d52919a16b8546beb2eb79596bee6d"
     },
     "_book/onderdeel-2.html": {
-      "checksum": "01160e983eff9ec586486608b49cec5f"
+      "checksum": "357769948e9bade507e3ca73be78c6df"
     },
     "_book/reference-keys.txt": {
       "checksum": "d41d8cd98f00b204e9800998ecf8427e"
@@ -629,118 +659,19 @@
       "checksum": "b6ded749145f4a8ad90864be888e2958"
     },
     "_book/search_index.json": {
-      "checksum": "e13bcca157734f489572a27d38e9fda1"
-    },
-    "bookdown_example/index.html": {
-      "checksum": "e2c7d4ea8ca6f0ab6124499170f2aedb"
-    },
-    "bookdown_example/leerdoelen-cursus.html": {
-      "checksum": "f1e2cfdcf8bf52cd2306b0bdc9cf8a20"
-    },
-    "bookdown_example/leerdoelen-les-1.html": {
-      "checksum": "5456ae0fb7a66a548326ebc01a6a2c9d"
-    },
-    "bookdown_example/leerdoelen-les-2.html": {
-      "checksum": "f4f5a77d609444e29ab55baa9e900994"
-    },
-    "bookdown_example/les-1-introductie.html": {
-      "checksum": "84a25d4896f9c0f766fa6980246988a3"
-    },
-    "bookdown_example/les-2.html": {
-      "checksum": "05e20115dbe219966a910c7d83e0e219"
-    },
-    "bookdown_example/libs/accessible-code-block-0.0.1/empty-anchor.js": {
-      "checksum": "53c42ac72d71beb8e6dbffe86ab543d6"
-    },
-    "bookdown_example/libs/anchor-sections-1.0/anchor-sections.css": {
-      "checksum": "98f11fa7f3ce7ed9fdda176360682403"
-    },
-    "bookdown_example/libs/anchor-sections-1.0/anchor-sections.js": {
-      "checksum": "35155fd1c913543974de3b2fd81e7fbd"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
-      "checksum": "b06871f281fee6b241d60582ae9369b9"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-bookdown.css": {
-      "checksum": "44444d0f3eb8064760ba1976976a7101"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-clipboard.css": {
-      "checksum": "e4a3bdc1e3d5590f47cbac67976f3961"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-fontsettings.css": {
-      "checksum": "76af8c23a8138a4b66aa6959ca5c3a8e"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-highlight.css": {
-      "checksum": "467fbe4b6b5a4b88fdd75c463f8626ec"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-search.css": {
-      "checksum": "0d7a6bb6a50e00c7358cf61027f099f0"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/plugin-table.css": {
-      "checksum": "8cb82f94ce1446fa4bafe7a3933e6c65"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/css/style.css": {
-      "checksum": "11f13a161c95d0e8257d673dc27f9251"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/app.min.js": {
-      "checksum": "395a8093ce46450cabfaa545a0705a3b"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/clipboard.min.js": {
-      "checksum": "be72101c8c16ba95fd8b69760d5ebc56"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/jquery.highlight.js": {
-      "checksum": "999424d32e03b9857098d2c7f53928c2"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/lunr.js": {
-      "checksum": "fbc747c6143aabb39b0ea7c0524b7057"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/plugin-bookdown.js": {
-      "checksum": "36b5487b9c1020c0de1352b8f26b8a8e"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/plugin-clipboard.js": {
-      "checksum": "a30f95fcd3fde10637ace1fb691b7475"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/plugin-fontsettings.js": {
-      "checksum": "4f57689705fdfa3eabfb7b7b92614f33"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/plugin-search.js": {
-      "checksum": "2d4c4d47ba34946b8ebcbe41aa522756"
-    },
-    "bookdown_example/libs/gitbook-2.6.7/js/plugin-sharing.js": {
-      "checksum": "799a983ef24c1cbe315d020a65aa1644"
-    },
-    "bookdown_example/libs/jquery-2.2.3/jquery.min.js": {
-      "checksum": "33cabfa15c1060aaa3d207c653afb1ee"
-    },
-    "bookdown_example/onderdeel-1-1.html": {
-      "checksum": "f9dcc133a700c7d6487deb7837df2881"
-    },
-    "bookdown_example/onderdeel-1.html": {
-      "checksum": "7714f23548173f4ce16634adf5d57c4a"
-    },
-    "bookdown_example/onderdeel-2-1.html": {
-      "checksum": "46f5a3889438354f2825a20bc58f84aa"
-    },
-    "bookdown_example/onderdeel-2.html": {
-      "checksum": "01160e983eff9ec586486608b49cec5f"
-    },
-    "bookdown_example/reference-keys.txt": {
-      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
-    },
-    "bookdown_example/search_index.json": {
-      "checksum": "e13bcca157734f489572a27d38e9fda1"
+      "checksum": "3f7a1da2d27c55c0590b41cee550fa74"
     },
     "course_urls.RData": {
       "checksum": "d2eb82b7312d301fd0ad4d575d1c53d2"
     },
     "cursus-titel.html": {
-      "checksum": "f596f021b22b3c3e856e9ba2efe386c2"
+      "checksum": "9f8c818135d824c296ed30c1df99adde"
     },
     "index.Rmd": {
       "checksum": "05d616ab7c6230783807b0a81cdca125"
     },
     "leerdoelen-cursus.html": {
-      "checksum": "dcb4844073ed2630a7cf7c3012054aec"
+      "checksum": "d07fe646b6080dd8aeb0c6fd5a18e756"
     },
     "les1.Rmd": {
       "checksum": "19e62d317ed2aebcbfb7e19c5cbe06e0"
@@ -867,6 +798,99 @@
     },
     "README.md": {
       "checksum": "46077ec8e615037a3ca7b07efb3a921d"
+    },
+    "simple_bookdown/index.html": {
+      "checksum": "85c230457d794635f220c8d87a2bb3f1"
+    },
+    "simple_bookdown/leerdoelen-cursus.html": {
+      "checksum": "5c9d7bea444304997045ea45ae669171"
+    },
+    "simple_bookdown/leerdoelen-les-1.html": {
+      "checksum": "7281dc6b3460b2f3f8b7ec1e520d6676"
+    },
+    "simple_bookdown/leerdoelen-les-2.html": {
+      "checksum": "705ff2cae4c016b30f15ed49f326daee"
+    },
+    "simple_bookdown/les-1-introductie.html": {
+      "checksum": "510fafdc38395d971d3cd05130ce5d5e"
+    },
+    "simple_bookdown/les-2.html": {
+      "checksum": "0d685be04722a030a038e76028284553"
+    },
+    "simple_bookdown/libs/accessible-code-block-0.0.1/empty-anchor.js": {
+      "checksum": "53c42ac72d71beb8e6dbffe86ab543d6"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
+      "checksum": "b06871f281fee6b241d60582ae9369b9"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-bookdown.css": {
+      "checksum": "44444d0f3eb8064760ba1976976a7101"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-clipboard.css": {
+      "checksum": "e4a3bdc1e3d5590f47cbac67976f3961"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-fontsettings.css": {
+      "checksum": "76af8c23a8138a4b66aa6959ca5c3a8e"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-highlight.css": {
+      "checksum": "467fbe4b6b5a4b88fdd75c463f8626ec"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-search.css": {
+      "checksum": "0d7a6bb6a50e00c7358cf61027f099f0"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/plugin-table.css": {
+      "checksum": "8cb82f94ce1446fa4bafe7a3933e6c65"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/css/style.css": {
+      "checksum": "11f13a161c95d0e8257d673dc27f9251"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/app.min.js": {
+      "checksum": "395a8093ce46450cabfaa545a0705a3b"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/clipboard.min.js": {
+      "checksum": "be72101c8c16ba95fd8b69760d5ebc56"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/jquery.highlight.js": {
+      "checksum": "999424d32e03b9857098d2c7f53928c2"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/lunr.js": {
+      "checksum": "fbc747c6143aabb39b0ea7c0524b7057"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/plugin-bookdown.js": {
+      "checksum": "36b5487b9c1020c0de1352b8f26b8a8e"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/plugin-clipboard.js": {
+      "checksum": "a30f95fcd3fde10637ace1fb691b7475"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/plugin-fontsettings.js": {
+      "checksum": "4f57689705fdfa3eabfb7b7b92614f33"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/plugin-search.js": {
+      "checksum": "2d4c4d47ba34946b8ebcbe41aa522756"
+    },
+    "simple_bookdown/libs/gitbook-2.6.7/js/plugin-sharing.js": {
+      "checksum": "799a983ef24c1cbe315d020a65aa1644"
+    },
+    "simple_bookdown/libs/jquery-2.2.3/jquery.min.js": {
+      "checksum": "33cabfa15c1060aaa3d207c653afb1ee"
+    },
+    "simple_bookdown/onderdeel-1-1.html": {
+      "checksum": "621eef1987ba784f022d05fb24a5189a"
+    },
+    "simple_bookdown/onderdeel-1.html": {
+      "checksum": "a9bc4bff8a241b970dc3eccffc4e6407"
+    },
+    "simple_bookdown/onderdeel-2-1.html": {
+      "checksum": "29d52919a16b8546beb2eb79596bee6d"
+    },
+    "simple_bookdown/onderdeel-2.html": {
+      "checksum": "357769948e9bade507e3ca73be78c6df"
+    },
+    "simple_bookdown/reference-keys.txt": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "simple_bookdown/search_index.json": {
+      "checksum": "3f7a1da2d27c55c0590b41cee550fa74"
     }
   },
   "users": null
