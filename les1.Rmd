@@ -15,6 +15,17 @@ load("course_urls.Rdata")
 
 You can find the server at [this web address](`r serverurl`)
 
-## Onderdeel 2
+## Onderdeel 2: een vraag
+
+vraag
+
+<details><summary>Click for the answer</summary>
+antwoord
+```{r code}
+# code chuncks kunnen gewoon mee
+print("42")
+```
+  
+</details>
 
 ### Subonderdeel 2.1
