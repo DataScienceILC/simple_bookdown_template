@@ -1,14 +1,22 @@
 ---
-title: "bookdown"
-author: "bookdown"
+title: ""
+author: ""
 site: bookdown::bookdown_site
 output: 
     bookdown::gitbook:
+        css: style.css
         number_sections: false
-        split_by: section
+        split_by: chapter
         config:
+            sharing:
+                 github: yes
+                 facebook: no
+                 twitter: no
+                 all: no
             toc:
                 collapse: section
+                scroll_highlight: yes
+                before: <li class="toc-logo"><a href="./"><img style="float:left;" src="images/voorbeeldlogo2.png"></a> <h4 class=".paddingtitel ">DAUR1 </h2></li>
 ---
 
 ```{r include = FALSE, eval = TRUE}
@@ -21,7 +29,6 @@ save(
     list = c("serverurl", "githuburl", "readerurl"), 
     file = "course_urls.RData")
 ```
-
 
 
 # CURSUS TITEL
