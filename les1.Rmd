@@ -29,3 +29,5 @@ print("42")
 </details>
 
 ### Subonderdeel 2.1
+
+### Subonderdeel 2.2
