@@ -2,9 +2,6 @@
 title: "les2"
 ---
 
-
-
-
 # Les 2
 
 ```{r include=FALSE}
@@ -16,3 +13,18 @@ load("course_urls.Rdata")
 ## Onderdeel 1
 
 ## Onderdeel 2
+
+<div class="question">
+##### Vraag 2
+
+vraag
+</div>
+
+<details><summary>Click for the answer</summary>
+antwoord
+```{r code}
+# code chuncks kunnen gewoon mee
+print("21")
+```
+  
+</details>

@@ -15,9 +15,11 @@ load("course_urls.Rdata")
 
 You can find the server at [this web address](`r serverurl`)
 
-## Onderdeel 2: een vraag
+<div class="question">
+##### Vraag 1
 
 vraag
+</div>
 
 <details><summary>Click for the answer</summary>
 antwoord
