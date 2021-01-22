@@ -23,11 +23,26 @@ vraag
 
 <details><summary>Click for the answer</summary>
 antwoord
-```{r code}
+```{r}
 # code chuncks kunnen gewoon mee
 print("42")
 ```
   
 </details>
 
-### Subonderdeel 2.1
+## Onderdeel 2
+
+<div class="question">
+##### Vraag 1
+
+vraag
+</div>
+
+<details><summary>Click for the answer</summary>
+antwoord
+```{r}
+# code chuncks kunnen gewoon mee
+print("36")
+```
+  
+</details>

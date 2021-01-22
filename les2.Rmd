@@ -22,7 +22,7 @@ vraag
 
 <details><summary>Click for the answer</summary>
 antwoord
-```{r code}
+```{r}
 # code chuncks kunnen gewoon mee
 print("21")
 ```
