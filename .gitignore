@@ -31,5 +31,4 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 bookdown_example
-rsconnect
 simple_bookdown
