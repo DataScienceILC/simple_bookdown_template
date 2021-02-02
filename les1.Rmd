@@ -6,7 +6,7 @@ title: "les 1"
 # Les 1 - Introductie
 
 ```{r include=FALSE}
-load("course_urls.Rdata")
+load("course_urls.RData")
 ```
 
 ## Leerdoelen Les 1
