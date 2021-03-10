@@ -3,9 +3,7 @@ h1, .h1, h2, .h2, h3, .h3 {
 }
 
 
-h1.title {
-  text-align: center;
-}
+
 
 pre {
     border: 0px solid #cccccc;
@@ -101,20 +99,24 @@ div.rstudio-tip, div.tip, div.question{
 
 
 div.rstudio-tip {
-  background-image: url("../images/rstudiologo.png");
+  background-image: url("images/rstudiologo.png");
 }
 
 div.tip {
-  background-image: url("../images/Light_bulb_icon_red.svg");
+  background-image: url("images/Light_bulb_icon_red.svg");
 }
 
 div.question {
-  background-image: url("../images/Question-mark-grey.jpg");
+  background-image: url("images/Question-mark-grey.jpg");
 }
 
 
  /* ----------- automatic question numbering ---------*/
-h1 { counter-reset: h5counter; }
+h1 { 
+  counter-reset: h5counter;
+  text-align: center;
+  
+}
 h5:after {
     counter-increment: h5counter;
     content: "." counter(h5counter);
